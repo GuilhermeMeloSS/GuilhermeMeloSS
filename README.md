@@ -9,10 +9,14 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeMeloSS&hide_progress=true)](https://github.com/GuilhermeMeloSS/github-readme-stats)
 
 ##
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  alt="Image" height="42" width="42" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt ="Image" altura ="15" width ="15" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  alt="Image" height="42" width="42" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt ="Image" height ="42" width ="42" />
 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg " alt = "image" height="15" whight ="15" />
+     
+          
+          
+            
+            
+            
             
           
 
