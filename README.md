@@ -7,7 +7,7 @@
 
 
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+###              ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
   ##   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeMeloSS&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeMeloSS&hide_progress=true)](https://github.com/GuilhermeMeloSS/github-readme-stats)
