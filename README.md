@@ -1,6 +1,6 @@
 ##                                                       Olá! Eu sou o Guilherme Melo!
 ####                                                     Atualmente Trabalho na NTT DATA  
-####                                                 Na função como QUALITY ASSUNRANCE (Q.A)
+####                                                 
 ####                             🔭 Hoje estou trabalhando minhas habilidades com Back-end
 ####                          
 ####                                      📫 Contate-me no Email: ggmelosilva@gmail.com
